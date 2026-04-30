@@ -1,0 +1,17 @@
+DETAILED INVOICE
+Seller: ABC Pvt Ltd
+Address: Mumbai, India
+Buyer: XYZ Enterprises
+Address: Delhi, India
+Invoice Number: INV-2026-001
+Date: 05-04-2026
+Due Date: 15-04-2026
+Item Description Qty Unit Price Total
+Product A Electronics item 2 500 1000
+Product B Office supply 3 200 600
+Service C Consulting service 1 1000 1000
+Subtotal: 2600
+Tax (10%): 260
+Total Amount: 2860
+Payment Method: Bank Transfer
+Notes: Thank you for your business!
